@@ -1,0 +1,346 @@
+Entered main() method.
+Entered readInputFile() method.
+
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Linear Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: 0 Index: 1 Value: 0 Index: 2 Value: 0 Index: 3 Value: 90123 Index: 4 Value: 14763
+ Index: 5 Value: 0 Index: 6 Value: 0 Index: 7 Value: 0 Index: 8 Value: 0 Index: 9 Value: 0
+ Index: 10 Value: 0 Index: 11 Value: 59531 Index: 12 Value: 89531 Index: 13 Value: 47893 Index: 14 Value: 11
+ Index: 15 Value: 33975 Index: 16 Value: 38531 Index: 17 Value: 0 Index: 18 Value: 0 Index: 19 Value: 22699
+ Index: 20 Value: 0 Index: 21 Value: 12501 Index: 22 Value: 72501 Index: 23 Value: 42501 Index: 24 Value: 12503
+ Index: 25 Value: 22705 Index: 26 Value: 0 Index: 27 Value: 0 Index: 28 Value: 0 Index: 29 Value: 99989
+ Index: 30 Value: 0 Index: 31 Value: 57391 Index: 32 Value: 0 Index: 33 Value: 0 Index: 34 Value: 1234
+ Index: 35 Value: 0 Index: 36 Value: 13956 Index: 37 Value: 35197 Index: 38 Value: 0 Index: 39 Value: 22599
+ Index: 40 Value: 99999 Index: 41 Value: 80800 Index: 42 Value: 0 Index: 43 Value: 84763 Index: 44 Value: 0
+ Index: 45 Value: 18765 Index: 46 Value: 56565 Index: 47 Value: 0 Index: 48 Value: 78888 Index: 49 Value: 0
+ Index: 50 Value: 0 Index: 51 Value: 39531 Index: 52 Value: 9531 Index: 53 Value: 0 Index: 54 Value: 0
+ Index: 55 Value: 0 Index: 56 Value: 0 Index: 57 Value: 0 Index: 58 Value: 2698 Index: 59 Value: 2699
+ Index: 60 Value: 62699 Index: 61 Value: 78901 Index: 62 Value: 89102 Index: 63 Value: 19501 Index: 64 Value: 0
+ Index: 65 Value: 54545 Index: 66 Value: 92345 Index: 67 Value: 0 Index: 68 Value: 0 Index: 69 Value: 0
+ Index: 70 Value: 0 Index: 71 Value: 90911 Index: 72 Value: 27431 Index: 73 Value: 31753 Index: 74 Value: 78911
+ Index: 75 Value: 0 Index: 76 Value: 0 Index: 77 Value: 71717 Index: 78 Value: 0 Index: 79 Value: 22999
+ Index: 80 Value: 62000 Index: 81 Value: 54321 Index: 82 Value: 0 Index: 83 Value: 64763 Index: 84 Value: 0
+ Index: 85 Value: 0 Index: 86 Value: 0 Index: 87 Value: 49287 Index: 88 Value: 0 Index: 89 Value: 0
+ Index: 90 Value: 67890 Index: 91 Value: 49531 Index: 92 Value: 79531 Index: 93 Value: 88531 Index: 94 Value: 0
+ Index: 95 Value: 0 Index: 96 Value: 0 Index: 97 Value: 0 Index: 98 Value: 0 Index: 99 Value: 42699
+ Index: 100 Value: 0 Index: 101 Value: 62501 Index: 102 Value: 92501 Index: 103 Value: 0 Index: 104 Value: 0
+ Index: 105 Value: 0 Index: 106 Value: 0 Index: 107 Value: 26987 Index: 108 Value: 0 Index: 109 Value: 0
+ Index: 110 Value: 0 Index: 111 Value: 81111 Index: 112 Value: 0 Index: 113 Value: 47993 Index: 114 Value: 0
+ Index: 115 Value: 55555 Index: 116 Value: 67676 Index: 117 Value: 0 Index: 118 Value: 358 Index: 119 Value: 37319
+Number of Collision: 19
+Total Number of Collision: 30
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Quadratic Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: 0 Index: 1 Value: 88531 Index: 2 Value: 0 Index: 3 Value: 90123 Index: 4 Value: 0
+ Index: 5 Value: 11 Index: 6 Value: 0 Index: 7 Value: 14763 Index: 8 Value: 0 Index: 9 Value: 0
+ Index: 10 Value: 0 Index: 11 Value: 59531 Index: 12 Value: 0 Index: 13 Value: 47893 Index: 14 Value: 0
+ Index: 15 Value: 33975 Index: 16 Value: 0 Index: 17 Value: 0 Index: 18 Value: 0 Index: 19 Value: 22699
+ Index: 20 Value: 0 Index: 21 Value: 12501 Index: 22 Value: 0 Index: 23 Value: 12503 Index: 24 Value: 0
+ Index: 25 Value: 72501 Index: 26 Value: 0 Index: 27 Value: 0 Index: 28 Value: 0 Index: 29 Value: 99989
+ Index: 30 Value: 0 Index: 31 Value: 57391 Index: 32 Value: 0 Index: 33 Value: 38531 Index: 34 Value: 1234
+ Index: 35 Value: 42501 Index: 36 Value: 13956 Index: 37 Value: 35197 Index: 38 Value: 0 Index: 39 Value: 22599
+ Index: 40 Value: 80800 Index: 41 Value: 89531 Index: 42 Value: 0 Index: 43 Value: 84763 Index: 44 Value: 0
+ Index: 45 Value: 18765 Index: 46 Value: 0 Index: 47 Value: 0 Index: 48 Value: 78888 Index: 49 Value: 56565
+ Index: 50 Value: 0 Index: 51 Value: 39531 Index: 52 Value: 0 Index: 53 Value: 99999 Index: 54 Value: 0
+ Index: 55 Value: 9531 Index: 56 Value: 0 Index: 57 Value: 0 Index: 58 Value: 2698 Index: 59 Value: 2699
+ Index: 60 Value: 0 Index: 61 Value: 78901 Index: 62 Value: 89102 Index: 63 Value: 62699 Index: 64 Value: 0
+ Index: 65 Value: 19501 Index: 66 Value: 0 Index: 67 Value: 0 Index: 68 Value: 0 Index: 69 Value: 54545
+ Index: 70 Value: 0 Index: 71 Value: 90911 Index: 72 Value: 0 Index: 73 Value: 31753 Index: 74 Value: 0
+ Index: 75 Value: 27431 Index: 76 Value: 0 Index: 77 Value: 71717 Index: 78 Value: 0 Index: 79 Value: 22999
+ Index: 80 Value: 62000 Index: 81 Value: 54321 Index: 82 Value: 0 Index: 83 Value: 64763 Index: 84 Value: 0
+ Index: 85 Value: 78911 Index: 86 Value: 0 Index: 87 Value: 49287 Index: 88 Value: 0 Index: 89 Value: 0
+ Index: 90 Value: 67890 Index: 91 Value: 49531 Index: 92 Value: 0 Index: 93 Value: 0 Index: 94 Value: 0
+ Index: 95 Value: 79531 Index: 96 Value: 0 Index: 97 Value: 0 Index: 98 Value: 0 Index: 99 Value: 42699
+ Index: 100 Value: 0 Index: 101 Value: 62501 Index: 102 Value: 0 Index: 103 Value: 0 Index: 104 Value: 0
+ Index: 105 Value: 92501 Index: 106 Value: 0 Index: 107 Value: 26987 Index: 108 Value: 0 Index: 109 Value: 22705
+ Index: 110 Value: 0 Index: 111 Value: 81111 Index: 112 Value: 0 Index: 113 Value: 47993 Index: 114 Value: 0
+ Index: 115 Value: 55555 Index: 116 Value: 67676 Index: 117 Value: 92345 Index: 118 Value: 358 Index: 119 Value: 37319
+Number of Collision: 38
+Total Number of Collision: 93
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Probe Type: Chaining Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: Null Index: 1 Value: Null Index: 2 Value: Null Index: 3 Value: 90123
+ Index: 4 Value: Null Index: 5 Value: Null Index: 6 Value: Null Index: 7 Value: Null Index: 8 Value: Null
+ Index: 9 Value: Null Index: 10 Value: Null Index: 11 Value: 59531 Value: 89531 Value: 11
+ Index: 12 Value: Null Index: 13 Value: 47893 Index: 14 Value: Null Index: 15 Value: 33975 Index: 16 Value: Null
+ Index: 17 Value: Null Index: 18 Value: Null Index: 19 Value: 22699 Index: 20 Value: Null Index: 21 Value: 12501
+ Index: 21 Value: 72501 Index: 22 Value: Null Index: 23 Value: 12503 Index: 24 Value: Null Index: 25 Value: 22705
+ Index: 26 Value: Null Index: 27 Value: Null Index: 28 Value: Null Index: 29 Value: 99989 Index: 30 Value: Null
+ Index: 31 Value: 57391 Index: 32 Value: Null Index: 33 Value: Null Index: 34 Value: 1234 Index: 35 Value: Null
+ Index: 36 Value: 13956 Index: 37 Value: 35197 Index: 38 Value: Null Index: 39 Value: 22599 Index: 40 Value: 80800
+ Index: 41 Value: Null Index: 42 Value: Null Index: 43 Value: 84763 Index: 44 Value: Null Index: 45 Value: 18765
+ Index: 46 Value: Null Index: 47 Value: Null Index: 48 Value: 78888 Index: 49 Value: Null Index: 50 Value: Null
+ Index: 51 Value: 39531 Index: 52 Value: Null Index: 53 Value: Null Index: 54 Value: Null Index: 55 Value: Null
+ Index: 56 Value: Null Index: 57 Value: Null Index: 58 Value: 2698 Index: 59 Value: 2699 Index: 60 Value: Null
+ Index: 61 Value: 78901 Index: 62 Value: 89102 Index: 63 Value: Null Index: 64 Value: Null Index: 65 Value: 54545
+ Index: 66 Value: Null Index: 67 Value: Null Index: 68 Value: Null Index: 69 Value: Null Index: 70 Value: Null
+ Index: 71 Value: 90911 Value: 27431 Index: 72 Value: Null Index: 73 Value: 31753 Index: 74 Value: Null
+ Index: 75 Value: Null Index: 76 Value: Null Index: 77 Value: 71717 Index: 78 Value: Null Index: 79 Value: 22999
+ Index: 80 Value: 62000 Index: 81 Value: 54321 Index: 82 Value: Null Index: 83 Value: 64763 Index: 84 Value: Null
+ Index: 85 Value: Null Index: 86 Value: Null Index: 87 Value: 49287 Index: 88 Value: Null Index: 89 Value: Null
+ Index: 90 Value: 67890 Index: 91 Value: 49531 Value: 79531 Index: 92 Value: Null Index: 93 Value: Null
+ Index: 94 Value: Null Index: 95 Value: Null Index: 96 Value: Null Index: 97 Value: Null Index: 98 Value: Null
+ Index: 99 Value: 42699 Index: 100 Value: Null Index: 101 Value: 62501 Index: 102 Value: Null Index: 103 Value: Null
+ Index: 104 Value: Null Index: 105 Value: Null Index: 106 Value: Null Index: 107 Value: 26987 Index: 108 Value: Null
+ Index: 109 Value: Null Index: 110 Value: Null Index: 111 Value: 81111 Index: 112 Value: Null Index: 113 Value: 47993
+ Index: 114 Value: Null Index: 115 Value: 55555 Index: 116 Value: 67676 Index: 117 Value: Null Index: 118 Value: 358
+ Index: 119 Value: 37319
+Number of Collision: 17
+Total Number of Collision: 23
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Linear Modulo: 113
+
+Hash Table: 
+ Index: 0 Value: 31753 Index: 1 Value: 0 Index: 2 Value: 0 Index: 3 Value: 0 Index: 4 Value: 0
+ Index: 5 Value: 80800 Index: 6 Value: 0 Index: 7 Value: 18765 Index: 8 Value: 0 Index: 9 Value: 0
+ Index: 10 Value: 0 Index: 11 Value: 11 Index: 12 Value: 62501 Index: 13 Value: 84763 Index: 14 Value: 42501
+ Index: 15 Value: 78888 Index: 16 Value: 64763 Index: 17 Value: 0 Index: 18 Value: 0 Index: 19 Value: 49287
+ Index: 20 Value: 358 Index: 21 Value: 0 Index: 22 Value: 0 Index: 23 Value: 0 Index: 24 Value: 92345
+ Index: 25 Value: 0 Index: 26 Value: 0 Index: 27 Value: 78901 Index: 28 Value: 0 Index: 29 Value: 37319
+ Index: 30 Value: 0 Index: 31 Value: 0 Index: 32 Value: 0 Index: 33 Value: 0 Index: 34 Value: 0
+ Index: 35 Value: 89531 Index: 36 Value: 0 Index: 37 Value: 49531 Index: 38 Value: 78911 Index: 39 Value: 9531
+ Index: 40 Value: 0 Index: 41 Value: 0 Index: 42 Value: 0 Index: 43 Value: 0 Index: 44 Value: 0
+ Index: 45 Value: 0 Index: 46 Value: 0 Index: 47 Value: 0 Index: 48 Value: 0 Index: 49 Value: 0
+ Index: 50 Value: 0 Index: 51 Value: 0 Index: 52 Value: 88531 Index: 53 Value: 0 Index: 54 Value: 35197
+ Index: 55 Value: 0 Index: 56 Value: 0 Index: 57 Value: 13956 Index: 58 Value: 89102 Index: 59 Value: 90911
+ Index: 60 Value: 22999 Index: 61 Value: 0 Index: 62 Value: 90123 Index: 63 Value: 0 Index: 64 Value: 0
+ Index: 65 Value: 56565 Index: 66 Value: 19501 Index: 67 Value: 92501 Index: 68 Value: 72501 Index: 69 Value: 0
+ Index: 70 Value: 0 Index: 71 Value: 12501 Index: 72 Value: 55555 Index: 73 Value: 14763 Index: 74 Value: 12503
+ Index: 75 Value: 33975 Index: 76 Value: 71717 Index: 77 Value: 62000 Index: 78 Value: 0 Index: 79 Value: 54545
+ Index: 80 Value: 0 Index: 81 Value: 54321 Index: 82 Value: 47993 Index: 83 Value: 0 Index: 84 Value: 0
+ Index: 85 Value: 27431 Index: 86 Value: 0 Index: 87 Value: 0 Index: 88 Value: 0 Index: 89 Value: 0
+ Index: 90 Value: 67890 Index: 91 Value: 81111 Index: 92 Value: 79531 Index: 93 Value: 59531 Index: 94 Value: 39531
+ Index: 95 Value: 47893 Index: 96 Value: 26987 Index: 97 Value: 62699 Index: 98 Value: 42699 Index: 99 Value: 2698
+ Index: 100 Value: 2699 Index: 101 Value: 22699 Index: 102 Value: 67676 Index: 103 Value: 57391 Index: 104 Value: 1234
+ Index: 105 Value: 99989 Index: 106 Value: 22705 Index: 107 Value: 99999 Index: 108 Value: 0 Index: 109 Value: 0
+ Index: 110 Value: 0 Index: 111 Value: 38531 Index: 112 Value: 22599 Index: 113 Value: 0 Index: 114 Value: 0
+ Index: 115 Value: 0 Index: 116 Value: 0 Index: 117 Value: 0 Index: 118 Value: 0 Index: 119 Value: 0
+Number of Collision: 55
+Total Number of Collision: 123
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Quadratic Modulo: 113
+
+Hash Table: 
+ Index: 0 Value: 31753 Index: 1 Value: 0 Index: 2 Value: 0 Index: 3 Value: 26987 Index: 4 Value: 0
+ Index: 5 Value: 80800 Index: 6 Value: 0 Index: 7 Value: 18765 Index: 8 Value: 0 Index: 9 Value: 0
+ Index: 10 Value: 0 Index: 11 Value: 11 Index: 12 Value: 62501 Index: 13 Value: 84763 Index: 14 Value: 78888
+ Index: 15 Value: 0 Index: 16 Value: 0 Index: 17 Value: 42501 Index: 18 Value: 64763 Index: 19 Value: 49287
+ Index: 20 Value: 0 Index: 21 Value: 0 Index: 22 Value: 81111 Index: 23 Value: 358 Index: 24 Value: 92345
+ Index: 25 Value: 0 Index: 26 Value: 0 Index: 27 Value: 78901 Index: 28 Value: 0 Index: 29 Value: 37319
+ Index: 30 Value: 0 Index: 31 Value: 0 Index: 32 Value: 0 Index: 33 Value: 0 Index: 34 Value: 0
+ Index: 35 Value: 89531 Index: 36 Value: 0 Index: 37 Value: 49531 Index: 38 Value: 0 Index: 39 Value: 9531
+ Index: 40 Value: 0 Index: 41 Value: 78911 Index: 42 Value: 0 Index: 43 Value: 0 Index: 44 Value: 0
+ Index: 45 Value: 0 Index: 46 Value: 0 Index: 47 Value: 0 Index: 48 Value: 0 Index: 49 Value: 0
+ Index: 50 Value: 0 Index: 51 Value: 0 Index: 52 Value: 88531 Index: 53 Value: 0 Index: 54 Value: 35197
+ Index: 55 Value: 0 Index: 56 Value: 0 Index: 57 Value: 13956 Index: 58 Value: 89102 Index: 59 Value: 90911
+ Index: 60 Value: 22999 Index: 61 Value: 0 Index: 62 Value: 90123 Index: 63 Value: 0 Index: 64 Value: 0
+ Index: 65 Value: 56565 Index: 66 Value: 0 Index: 67 Value: 92501 Index: 68 Value: 72501 Index: 69 Value: 19501
+ Index: 70 Value: 0 Index: 71 Value: 12501 Index: 72 Value: 55555 Index: 73 Value: 14763 Index: 74 Value: 0
+ Index: 75 Value: 33975 Index: 76 Value: 62000 Index: 77 Value: 12503 Index: 78 Value: 0 Index: 79 Value: 71717
+ Index: 80 Value: 0 Index: 81 Value: 54321 Index: 82 Value: 0 Index: 83 Value: 54545 Index: 84 Value: 0
+ Index: 85 Value: 27431 Index: 86 Value: 0 Index: 87 Value: 0 Index: 88 Value: 0 Index: 89 Value: 0
+ Index: 90 Value: 67890 Index: 91 Value: 0 Index: 92 Value: 79531 Index: 93 Value: 59531 Index: 94 Value: 39531
+ Index: 95 Value: 47993 Index: 96 Value: 0 Index: 97 Value: 62699 Index: 98 Value: 42699 Index: 99 Value: 2698
+ Index: 100 Value: 2699 Index: 101 Value: 99989 Index: 102 Value: 67676 Index: 103 Value: 22699 Index: 104 Value: 1234
+ Index: 105 Value: 22705 Index: 106 Value: 0 Index: 107 Value: 99999 Index: 108 Value: 47893 Index: 109 Value: 0
+ Index: 110 Value: 0 Index: 111 Value: 38531 Index: 112 Value: 22599 Index: 113 Value: 0 Index: 114 Value: 57391
+ Index: 115 Value: 0 Index: 116 Value: 0 Index: 117 Value: 0 Index: 118 Value: 0 Index: 119 Value: 0
+Number of Collision: 70
+Total Number of Collision: 146
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Probe Type: Chaining Modulo: 113
+
+Hash Table: 
+ Index: 0 Value: 31753 Index: 1 Value: Null Index: 2 Value: Null Index: 3 Value: Null
+ Index: 4 Value: Null Index: 5 Value: 80800 Index: 6 Value: Null Index: 7 Value: 18765 Index: 8 Value: Null
+ Index: 9 Value: Null Index: 10 Value: Null Index: 11 Value: 11 Index: 12 Value: 62501 Index: 13 Value: 84763
+ Index: 14 Value: 78888 Index: 15 Value: Null Index: 16 Value: Null Index: 17 Value: Null Index: 18 Value: Null
+ Index: 19 Value: 49287 Index: 20 Value: Null Index: 21 Value: Null Index: 22 Value: Null Index: 23 Value: Null
+ Index: 24 Value: 92345 Index: 25 Value: Null Index: 26 Value: Null Index: 27 Value: 78901 Index: 28 Value: Null
+ Index: 29 Value: 37319 Index: 30 Value: Null Index: 31 Value: Null Index: 32 Value: Null Index: 33 Value: Null
+ Index: 34 Value: Null Index: 35 Value: 89531 Index: 36 Value: Null Index: 37 Value: 49531 Index: 38 Value: Null
+ Index: 39 Value: 9531 Index: 40 Value: Null Index: 41 Value: Null Index: 42 Value: Null Index: 43 Value: Null
+ Index: 44 Value: Null Index: 45 Value: Null Index: 46 Value: Null Index: 47 Value: Null Index: 48 Value: Null
+ Index: 49 Value: Null Index: 50 Value: Null Index: 51 Value: Null Index: 52 Value: 88531 Index: 53 Value: Null
+ Index: 54 Value: 35197 Index: 55 Value: Null Index: 56 Value: Null Index: 57 Value: 13956 Index: 58 Value: 89102
+ Index: 59 Value: 90911 Index: 60 Value: 22999 Index: 61 Value: Null Index: 62 Value: 90123 Index: 63 Value: Null
+ Index: 64 Value: Null Index: 65 Value: 56565 Index: 66 Value: Null Index: 67 Value: 92501 Index: 68 Value: 72501
+ Index: 69 Value: Null Index: 70 Value: Null Index: 71 Value: 12501 Index: 72 Value: 55555 Index: 73 Value: 14763
+ Index: 74 Value: Null Index: 75 Value: 33975 Index: 76 Value: 62000 Index: 77 Value: Null Index: 78 Value: Null
+ Index: 79 Value: 54545 Index: 80 Value: Null Index: 81 Value: 54321 Index: 82 Value: Null Index: 83 Value: Null
+ Index: 84 Value: Null Index: 85 Value: 27431 Index: 86 Value: Null Index: 87 Value: Null Index: 88 Value: Null
+ Index: 89 Value: Null Index: 90 Value: 67890 Index: 91 Value: Null Index: 92 Value: 79531 Index: 93 Value: 59531
+ Index: 94 Value: 39531 Index: 95 Value: Null Index: 96 Value: Null Index: 97 Value: 62699 Index: 98 Value: 42699
+ Index: 99 Value: 2698 Index: 100 Value: 2699 Index: 101 Value: Null Index: 102 Value: 67676 Index: 103 Value: Null
+ Index: 104 Value: 1234 Index: 105 Value: 22705 Index: 106 Value: Null Index: 107 Value: 99999 Index: 108 Value: Null
+ Index: 109 Value: Null Index: 110 Value: Null Index: 111 Value: 38531 Index: 112 Value: 22599 Index: 113 Value: Null
+ Index: 114 Value: Null Index: 115 Value: Null Index: 116 Value: Null Index: 117 Value: Null Index: 118 Value: Null
+ Index: 119 Value: Null
+Number of Collision: 31
+Total Number of Collision: 37
+Entered Hash Table method.
+Bucket Size: 3 Probe Type: Linear Modulo: 41
+
+Hash Table: 
+ Index: 0 Value: 55555 Value: 99999 Value: 59531 Index: 1 Value: 0 Value: 0 Value: 0
+ Index: 2 Value: 27431 Value: 0 Value: 0 Index: 3 Value: 49531 Value: 14763 Value: 0
+ Index: 4 Value: 1234 Value: 78888 Value: 0 Index: 5 Value: 90123 Value: 92501 Value: 47893
+ Index: 6 Value: 49287 Value: 0 Value: 0 Index: 7 Value: 39531 Value: 0 Value: 0
+ Index: 8 Value: 22599 Value: 71717 Value: 62000 Index: 9 Value: 37319 Value: 89102 Value: 26987
+ Index: 10 Value: 62699 Value: 0 Value: 0 Index: 11 Value: 11 Value: 0 Value: 0
+ Index: 12 Value: 88531 Value: 0 Value: 0 Index: 13 Value: 72501 Value: 81111 Value: 92345
+ Index: 14 Value: 90911 Value: 0 Value: 0 Index: 15 Value: 54545 Value: 0 Value: 0
+ Index: 16 Value: 84763 Value: 13956 Value: 0 Index: 17 Value: 62501 Value: 78901 Value: 0
+ Index: 18 Value: 42699 Value: 0 Value: 0 Index: 19 Value: 31753 Value: 9531 Value: 35197
+ Index: 20 Value: 0 Value: 0 Value: 0 Index: 21 Value: 0 Value: 0 Value: 0
+ Index: 22 Value: 0 Value: 0 Value: 0 Index: 23 Value: 47993 Value: 0 Value: 0
+ Index: 24 Value: 64763 Value: 0 Value: 0 Index: 25 Value: 42501 Value: 0 Value: 0
+ Index: 26 Value: 22699 Value: 67676 Value: 56565 Index: 27 Value: 33975 Value: 19501 Value: 78911
+ Index: 28 Value: 18765 Value: 89531 Value: 0 Index: 29 Value: 0 Value: 0 Value: 0
+ Index: 30 Value: 80800 Value: 358 Value: 0 Index: 31 Value: 99989 Value: 0 Value: 0
+ Index: 32 Value: 79531 Value: 57391 Value: 22705 Index: 33 Value: 2698 Value: 38531 Value: 0
+ Index: 34 Value: 2699 Value: 0 Value: 0 Index: 35 Value: 67890 Value: 0 Value: 0
+ Index: 36 Value: 0 Value: 0 Value: 0 Index: 37 Value: 12501 Value: 54321 Value: 0
+ Index: 38 Value: 0 Value: 0 Value: 0 Index: 39 Value: 22999 Value: 12503 Value: 0
+Number of Collision: 98
+Total Number of Collision: 191
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Bucket Size: 3 Probe Type: Quadratic Modulo: 41
+
+Hash Table: 
+ Index: 0 Value: 55555 Value: 99999 Value: 59531 Index: 1 Value: 0 Value: 0 Value: 0
+ Index: 2 Value: 27431 Value: 0 Value: 0 Index: 3 Value: 49531 Value: 14763 Value: 0
+ Index: 4 Value: 1234 Value: 78888 Value: 0 Index: 5 Value: 90123 Value: 92501 Value: 47893
+ Index: 6 Value: 0 Value: 0 Value: 0 Index: 7 Value: 39531 Value: 0 Value: 0
+ Index: 8 Value: 22599 Value: 71717 Value: 62000 Index: 9 Value: 37319 Value: 89102 Value: 49287
+ Index: 10 Value: 62699 Value: 0 Value: 0 Index: 11 Value: 11 Value: 0 Value: 0
+ Index: 12 Value: 88531 Value: 0 Value: 0 Index: 13 Value: 72501 Value: 81111 Value: 26987
+ Index: 14 Value: 90911 Value: 0 Value: 0 Index: 15 Value: 54545 Value: 0 Value: 0
+ Index: 16 Value: 84763 Value: 13956 Value: 0 Index: 17 Value: 62501 Value: 78901 Value: 92345
+ Index: 18 Value: 42699 Value: 0 Value: 0 Index: 19 Value: 31753 Value: 9531 Value: 35197
+ Index: 20 Value: 0 Value: 0 Value: 0 Index: 21 Value: 0 Value: 0 Value: 0
+ Index: 22 Value: 0 Value: 0 Value: 0 Index: 23 Value: 47993 Value: 0 Value: 0
+ Index: 24 Value: 64763 Value: 0 Value: 0 Index: 25 Value: 42501 Value: 0 Value: 0
+ Index: 26 Value: 22699 Value: 67676 Value: 56565 Index: 27 Value: 33975 Value: 78911 Value: 0
+ Index: 28 Value: 18765 Value: 89531 Value: 0 Index: 29 Value: 0 Value: 0 Value: 0
+ Index: 30 Value: 80800 Value: 19501 Value: 358 Index: 31 Value: 99989 Value: 0 Value: 0
+ Index: 32 Value: 79531 Value: 57391 Value: 22705 Index: 33 Value: 2698 Value: 0 Value: 0
+ Index: 34 Value: 2699 Value: 0 Value: 0 Index: 35 Value: 67890 Value: 0 Value: 0
+ Index: 36 Value: 38531 Value: 0 Value: 0 Index: 37 Value: 12501 Value: 54321 Value: 0
+ Index: 38 Value: 0 Value: 0 Value: 0 Index: 39 Value: 22999 Value: 12503 Value: 0
+Number of Collision: 126
+Total Number of Collision: 243
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Linear Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: 0 Index: 1 Value: 90123 Index: 2 Value: 14763 Index: 3 Value: 0 Index: 4 Value: 0
+ Index: 5 Value: 0 Index: 6 Value: 0 Index: 7 Value: 0 Index: 8 Value: 0 Index: 9 Value: 59531
+ Index: 10 Value: 89531 Index: 11 Value: 11 Index: 12 Value: 38531 Index: 13 Value: 33975 Index: 14 Value: 0
+ Index: 15 Value: 47893 Index: 16 Value: 0 Index: 17 Value: 22699 Index: 18 Value: 0 Index: 19 Value: 0
+ Index: 20 Value: 0 Index: 21 Value: 12503 Index: 22 Value: 0 Index: 23 Value: 12501 Index: 24 Value: 72501
+ Index: 25 Value: 42501 Index: 26 Value: 0 Index: 27 Value: 22705 Index: 28 Value: 0 Index: 29 Value: 57391
+ Index: 30 Value: 0 Index: 31 Value: 99989 Index: 32 Value: 1234 Index: 33 Value: 0 Index: 34 Value: 0
+ Index: 35 Value: 0 Index: 36 Value: 0 Index: 37 Value: 22599 Index: 38 Value: 99999 Index: 39 Value: 13956
+ Index: 40 Value: 35197 Index: 41 Value: 84763 Index: 42 Value: 80800 Index: 43 Value: 0 Index: 44 Value: 0
+ Index: 45 Value: 0 Index: 46 Value: 0 Index: 47 Value: 18765 Index: 48 Value: 56565 Index: 49 Value: 39531
+ Index: 50 Value: 78888 Index: 51 Value: 9531 Index: 52 Value: 0 Index: 53 Value: 0 Index: 54 Value: 0
+ Index: 55 Value: 0 Index: 56 Value: 2698 Index: 57 Value: 2699 Index: 58 Value: 62699 Index: 59 Value: 0
+ Index: 60 Value: 89102 Index: 61 Value: 0 Index: 62 Value: 0 Index: 63 Value: 78901 Index: 64 Value: 19501
+ Index: 65 Value: 0 Index: 66 Value: 0 Index: 67 Value: 54545 Index: 68 Value: 92345 Index: 69 Value: 90911
+ Index: 70 Value: 27431 Index: 71 Value: 78911 Index: 72 Value: 0 Index: 73 Value: 0 Index: 74 Value: 0
+ Index: 75 Value: 31753 Index: 76 Value: 0 Index: 77 Value: 22999 Index: 78 Value: 0 Index: 79 Value: 71717
+ Index: 80 Value: 0 Index: 81 Value: 64763 Index: 82 Value: 62000 Index: 83 Value: 54321 Index: 84 Value: 0
+ Index: 85 Value: 49287 Index: 86 Value: 0 Index: 87 Value: 0 Index: 88 Value: 67890 Index: 89 Value: 49531
+ Index: 90 Value: 79531 Index: 91 Value: 88531 Index: 92 Value: 0 Index: 93 Value: 0 Index: 94 Value: 0
+ Index: 95 Value: 0 Index: 96 Value: 0 Index: 97 Value: 42699 Index: 98 Value: 0 Index: 99 Value: 0
+ Index: 100 Value: 0 Index: 101 Value: 0 Index: 102 Value: 0 Index: 103 Value: 62501 Index: 104 Value: 92501
+ Index: 105 Value: 26987 Index: 106 Value: 0 Index: 107 Value: 0 Index: 108 Value: 0 Index: 109 Value: 81111
+ Index: 110 Value: 0 Index: 111 Value: 0 Index: 112 Value: 0 Index: 113 Value: 55555 Index: 114 Value: 0
+ Index: 115 Value: 47993 Index: 116 Value: 358 Index: 117 Value: 37319 Index: 118 Value: 67676 Index: 119 Value: 0
+Number of Collision: 145
+Total Number of Collision: 269
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Bucket Size: 1 Probe Type: Quadratic Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: 0 Index: 1 Value: 90123 Index: 2 Value: 0 Index: 3 Value: 11 Index: 4 Value: 0
+ Index: 5 Value: 14763 Index: 6 Value: 0 Index: 7 Value: 0 Index: 8 Value: 0 Index: 9 Value: 59531
+ Index: 10 Value: 0 Index: 11 Value: 71717 Index: 12 Value: 0 Index: 13 Value: 33975 Index: 14 Value: 0
+ Index: 15 Value: 47893 Index: 16 Value: 0 Index: 17 Value: 22699 Index: 18 Value: 0 Index: 19 Value: 78911
+ Index: 20 Value: 0 Index: 21 Value: 12503 Index: 22 Value: 0 Index: 23 Value: 12501 Index: 24 Value: 0
+ Index: 25 Value: 0 Index: 26 Value: 0 Index: 27 Value: 72501 Index: 28 Value: 0 Index: 29 Value: 57391
+ Index: 30 Value: 0 Index: 31 Value: 99989 Index: 32 Value: 1234 Index: 33 Value: 0 Index: 34 Value: 0
+ Index: 35 Value: 0 Index: 36 Value: 0 Index: 37 Value: 22599 Index: 38 Value: 13956 Index: 39 Value: 89531
+ Index: 40 Value: 0 Index: 41 Value: 84763 Index: 42 Value: 80800 Index: 43 Value: 35197 Index: 44 Value: 0
+ Index: 45 Value: 0 Index: 46 Value: 0 Index: 47 Value: 18765 Index: 48 Value: 0 Index: 49 Value: 39531
+ Index: 50 Value: 78888 Index: 51 Value: 99999 Index: 52 Value: 0 Index: 53 Value: 42501 Index: 54 Value: 0
+ Index: 55 Value: 0 Index: 56 Value: 2698 Index: 57 Value: 2699 Index: 58 Value: 0 Index: 59 Value: 0
+ Index: 60 Value: 89102 Index: 61 Value: 56565 Index: 62 Value: 0 Index: 63 Value: 78901 Index: 64 Value: 0
+ Index: 65 Value: 0 Index: 66 Value: 0 Index: 67 Value: 19501 Index: 68 Value: 0 Index: 69 Value: 90911
+ Index: 70 Value: 0 Index: 71 Value: 62699 Index: 72 Value: 0 Index: 73 Value: 27431 Index: 74 Value: 0
+ Index: 75 Value: 31753 Index: 76 Value: 0 Index: 77 Value: 22999 Index: 78 Value: 0 Index: 79 Value: 9531
+ Index: 80 Value: 0 Index: 81 Value: 64763 Index: 82 Value: 62000 Index: 83 Value: 54321 Index: 84 Value: 0
+ Index: 85 Value: 49287 Index: 86 Value: 0 Index: 87 Value: 92345 Index: 88 Value: 67890 Index: 89 Value: 49531
+ Index: 90 Value: 0 Index: 91 Value: 0 Index: 92 Value: 0 Index: 93 Value: 79531 Index: 94 Value: 0
+ Index: 95 Value: 0 Index: 96 Value: 0 Index: 97 Value: 42699 Index: 98 Value: 0 Index: 99 Value: 38531
+ Index: 100 Value: 0 Index: 101 Value: 88531 Index: 102 Value: 0 Index: 103 Value: 62501 Index: 104 Value: 0
+ Index: 105 Value: 26987 Index: 106 Value: 0 Index: 107 Value: 92501 Index: 108 Value: 0 Index: 109 Value: 81111
+ Index: 110 Value: 0 Index: 111 Value: 22705 Index: 112 Value: 0 Index: 113 Value: 55555 Index: 114 Value: 0
+ Index: 115 Value: 47993 Index: 116 Value: 358 Index: 117 Value: 37319 Index: 118 Value: 67676 Index: 119 Value: 54545
+Number of Collision: 166
+Total Number of Collision: 371
+Data not inputed into Hash Table: 0
+
+Entered Hash Table method.
+Probe Type: Chaining Modulo: 120
+
+Hash Table: 
+ Index: 0 Value: Null Index: 1 Value: 90123 Index: 2 Value: Null Index: 3 Value: Null
+ Index: 4 Value: Null Index: 5 Value: Null Index: 6 Value: Null Index: 7 Value: Null Index: 8 Value: Null
+ Index: 9 Value: 59531 Value: 89531 Value: 11 Index: 10 Value: Null Index: 11 Value: Null
+ Index: 12 Value: Null Index: 13 Value: 33975 Index: 14 Value: Null Index: 15 Value: 47893 Index: 16 Value: Null
+ Index: 17 Value: 22699 Index: 18 Value: Null Index: 19 Value: Null Index: 20 Value: Null Index: 21 Value: 12503
+ Index: 22 Value: Null Index: 23 Value: 12501 Value: 72501 Index: 24 Value: Null Index: 25 Value: Null
+ Index: 26 Value: Null Index: 27 Value: 22705 Index: 28 Value: Null Index: 29 Value: 57391 Index: 30 Value: Null
+ Index: 31 Value: 99989 Index: 32 Value: 1234 Index: 33 Value: Null Index: 34 Value: Null Index: 35 Value: Null
+ Index: 36 Value: Null Index: 37 Value: 22599 Index: 38 Value: 13956 Index: 39 Value: 35197 Index: 40 Value: Null
+ Index: 41 Value: 84763 Index: 42 Value: 80800 Index: 43 Value: Null Index: 44 Value: Null Index: 45 Value: Null
+ Index: 46 Value: Null Index: 47 Value: 18765 Index: 48 Value: Null Index: 49 Value: 39531 Index: 50 Value: 78888
+ Index: 51 Value: Null Index: 52 Value: Null Index: 53 Value: Null Index: 54 Value: Null Index: 55 Value: Null
+ Index: 56 Value: 2698 Index: 57 Value: 2699 Index: 58 Value: Null Index: 59 Value: Null Index: 60 Value: 89102
+ Index: 61 Value: Null Index: 62 Value: Null Index: 63 Value: 78901 Index: 64 Value: Null Index: 65 Value: Null
+ Index: 66 Value: Null Index: 67 Value: 54545 Index: 68 Value: Null Index: 69 Value: 90911 Value: 27431
+ Index: 70 Value: Null Index: 71 Value: Null Index: 72 Value: Null Index: 73 Value: Null Index: 74 Value: Null
+ Index: 75 Value: 31753 Index: 76 Value: Null Index: 77 Value: 22999 Index: 78 Value: Null Index: 79 Value: 71717
+ Index: 80 Value: Null Index: 81 Value: 64763 Index: 82 Value: 62000 Index: 83 Value: 54321 Index: 84 Value: Null
+ Index: 85 Value: 49287 Index: 86 Value: Null Index: 87 Value: Null Index: 88 Value: 67890 Index: 89 Value: 49531
+ Index: 89 Value: 79531 Index: 90 Value: Null Index: 91 Value: Null Index: 92 Value: Null Index: 93 Value: Null
+ Index: 94 Value: Null Index: 95 Value: Null Index: 96 Value: Null Index: 97 Value: 42699 Index: 98 Value: Null
+ Index: 99 Value: Null Index: 100 Value: Null Index: 101 Value: Null Index: 102 Value: Null Index: 103 Value: 62501
+ Index: 104 Value: Null Index: 105 Value: 26987 Index: 106 Value: Null Index: 107 Value: Null Index: 108 Value: Null
+ Index: 109 Value: 81111 Index: 110 Value: Null Index: 111 Value: Null Index: 112 Value: Null Index: 113 Value: 55555
+ Index: 114 Value: Null Index: 115 Value: 47993 Index: 116 Value: 358 Index: 117 Value: 37319 Index: 118 Value: 67676
+ Index: 119 Value: Null
+Number of Collision: 48
+Total Number of Collision: 60
